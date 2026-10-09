@@ -1,0 +1,51 @@
+---
+title: "IC8-2: CITI Certification"
+author: "Yushan Huang"
+date: "2026-10-09"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    embed-resources: true
+---
+
+## Introduction
+
+This report documents my successful completion of the CITI Program's human subjects research training, as required for IC8-2. The training covers research ethics, informed consent, privacy and confidentiality, and responsible research practices.
+
+## Training Information
+
+| Item | Details |
+|:--|:--|
+| Institution | California State Polytechnic University, Pomona |
+| Curriculum Group | Human Research |
+| Course Learner Group | College of Business Administration |
+| Stage | 1 - Basic Course |
+| Completion Date | October 9, 2026 |
+| Expiration Date | October 9, 2031 |
+| Minimum Passing Score | 80% |
+| Reported Score | 99% |
+| Status | Completed |
+
+## CITI Completion Certificate
+
+The following certificate confirms my successful completion of the required training.
+
+![CITI Program completion certificate](images/citi-certificate.png){fig-alt="CITI completion certificate for College of Business Administration at Cal Poly Pomona" width="100%"}
+
+## Completion Report
+
+The CITI completion report provides the coursework requirements and assessment results.
+
+![CITI Program coursework completion report](images/citi-completion-report.png){fig-alt="CITI coursework requirements and reported score" width="100%"}
+
+## Appendix
+
+The following links provide access to the CITI Program and the university's IRB training information, as well as verification of my completion records.
+
+- [Verify CITI Completion Certificate](https://www.citiprogram.org/verify/?wcd13b2ee-3927-474f-8b02-3a29d1ed0e5f-80208940)
+- [Verify CITI Completion Report](https://www.citiprogram.org/verify/?k00259ae3-37d3-4ae3-b121-ffc54cb06e15-80208940)
+- [CPP IRB Training and Protocol Information](https://www.cpp.edu/research/research-compliance/irb/protocol.shtml)
+- [CITI Program](https://about.citiprogram.org/)
+
+
